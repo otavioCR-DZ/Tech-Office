@@ -1,0 +1,4 @@
+.title { margin: 0 0 4px; font-family: var(--display); font-size: 1.8rem; }
+.subtitle { margin: 0 0 20px; color: var(--color-text-muted); }
+.controls { display: flex; flex-direction: column; gap: 12px; margin-bottom: 20px; }
+.grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 16px; }

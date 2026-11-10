@@ -1,0 +1,4 @@
+.table { width: 100%; border-collapse: collapse; font-size: 0.9rem; }
+.table td { padding: 6px 0; border-top: 1px solid var(--color-border); }
+.table td:last-child { text-align: right; }
+.best { color: var(--color-accent); font-weight: 700; }

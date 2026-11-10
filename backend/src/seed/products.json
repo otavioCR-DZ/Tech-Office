@@ -1,0 +1,162 @@
+[
+  {
+    "name": "Mouse sem fio",
+    "category": "Periféricos",
+    "base": 60,
+    "promo": 15,
+    "query": "mouse sem fio 2.4ghz",
+    "specs": "2.4 GHz, 1600 DPI, receptor USB, pilha AA",
+    "purpose": "Controla o cursor sem cabos.",
+    "utility": "Deixa a mesa organizada e dá mobilidade no dia a dia."
+  },
+  {
+    "name": "Teclado ABNT2 USB",
+    "category": "Periféricos",
+    "base": 70,
+    "promo": 12,
+    "query": "teclado abnt2 usb",
+    "specs": "Layout ABNT2, USB, teclas com ç, resistente a respingos",
+    "purpose": "Digitação de textos, planilhas e sistemas.",
+    "utility": "Ferramenta principal de entrada de dados da equipe."
+  },
+  {
+    "name": "Headset com microfone",
+    "category": "Periféricos",
+    "base": 120,
+    "promo": 20,
+    "query": "headset usb microfone",
+    "specs": "USB, cancelamento de ruído no microfone, haste ajustável",
+    "purpose": "Áudio para chamadas e reuniões online.",
+    "utility": "Reduz barulho do ambiente e melhora a clareza nas videochamadas."
+  },
+  {
+    "name": "Webcam Full HD",
+    "category": "Periféricos",
+    "base": 180,
+    "promo": 18,
+    "query": "webcam full hd 1080p",
+    "specs": "1080p 30 fps, microfone embutido, USB plug and play",
+    "purpose": "Câmera para reuniões remotas.",
+    "utility": "Essencial para atendimento e reuniões com clientes e equipe remota."
+  },
+  {
+    "name": "Hub USB 3.0 4 portas",
+    "category": "Periféricos",
+    "base": 50,
+    "promo": 18,
+    "query": "hub usb 3.0 4 portas",
+    "specs": "4 portas USB 3.0, até 5 Gbps",
+    "purpose": "Amplia as portas USB do computador.",
+    "utility": "Notebooks com poucas portas ganham espaço para mouse, teclado e pen drive."
+  },
+  {
+    "name": "Monitor 24\" Full HD",
+    "category": "Telas e computadores",
+    "base": 700,
+    "promo": 20,
+    "query": "monitor 24 polegadas full hd ips",
+    "specs": "24\", IPS, 1920x1080, 75 Hz, HDMI",
+    "purpose": "Segunda tela ou tela principal de trabalho.",
+    "utility": "Mais espaço de trabalho aumenta a produtividade e reduz cansaço visual."
+  },
+  {
+    "name": "Notebook básico",
+    "category": "Telas e computadores",
+    "base": 2600,
+    "promo": 15,
+    "query": "notebook i5 8gb ssd 256gb",
+    "specs": "Core i5 / Ryzen 5, 8 GB RAM, SSD 256 GB, tela 15,6\"",
+    "purpose": "Computador portátil para tarefas de escritório.",
+    "utility": "Roda e-mail, planilhas, sistemas web e reuniões sem travar."
+  },
+  {
+    "name": "SSD 480 GB SATA",
+    "category": "Armazenamento",
+    "base": 200,
+    "promo": 25,
+    "query": "ssd 480gb sata",
+    "specs": "SATA III 2,5\", leitura ~500 MB/s",
+    "purpose": "Disco rápido para trocar o HD antigo.",
+    "utility": "Deixa PCs antigos muito mais rápidos, ligando em segundos."
+  },
+  {
+    "name": "HD externo 1 TB",
+    "category": "Armazenamento",
+    "base": 330,
+    "promo": 12,
+    "query": "hd externo 1tb usb 3.0",
+    "specs": "1 TB, USB 3.0, 2,5\", compatível com Windows e Mac",
+    "purpose": "Backup portátil de arquivos.",
+    "utility": "Cópia de segurança de documentos importantes da empresa."
+  },
+  {
+    "name": "Pen drive 64 GB",
+    "category": "Armazenamento",
+    "base": 45,
+    "promo": 15,
+    "query": "pen drive 64gb usb 3.0",
+    "specs": "64 GB, USB 3.0, leitura ~100 MB/s",
+    "purpose": "Transporte rápido de arquivos.",
+    "utility": "Troca de documentos e instaladores entre computadores."
+  },
+  {
+    "name": "Roteador Wi-Fi 6 dual band",
+    "category": "Rede",
+    "base": 260,
+    "promo": 20,
+    "query": "roteador wifi 6 dual band",
+    "specs": "AX1500, 2,4 + 5 GHz, 4 portas Gigabit, WPA3",
+    "purpose": "Distribui a internet por cabo e Wi-Fi.",
+    "utility": "Conexão estável para toda a equipe, com rede separada para visitantes."
+  },
+  {
+    "name": "Switch Gigabit 8 portas",
+    "category": "Rede",
+    "base": 130,
+    "promo": 15,
+    "query": "switch gigabit 8 portas",
+    "specs": "8 portas 10/100/1000, não gerenciável, plug and play",
+    "purpose": "Multiplica as portas de rede.",
+    "utility": "Liga computadores e impressoras por cabo, com mais velocidade e estabilidade."
+  },
+  {
+    "name": "Cabo de rede Cat6 (10 m)",
+    "category": "Rede",
+    "base": 35,
+    "promo": 20,
+    "query": "cabo de rede cat6 10m",
+    "specs": "Cat6, RJ45, 10 metros, até 1 Gbps",
+    "purpose": "Conecta equipamentos à rede.",
+    "utility": "Evita quedas do Wi-Fi em estações fixas."
+  },
+  {
+    "name": "Nobreak 600 VA",
+    "category": "Energia",
+    "base": 420,
+    "promo": 15,
+    "query": "nobreak 600va bivolt",
+    "specs": "600 VA, bivolt, 6 tomadas, bateria selada",
+    "purpose": "Mantém o PC ligado em quedas de energia.",
+    "utility": "Protege contra picos e evita perda de trabalho não salvo."
+  },
+  {
+    "name": "Filtro de linha 6 tomadas",
+    "category": "Energia",
+    "base": 40,
+    "promo": 15,
+    "query": "filtro de linha 6 tomadas",
+    "specs": "6 tomadas, chave liga/desliga, proteção contra surtos",
+    "purpose": "Extensão com proteção elétrica.",
+    "utility": "Conecta vários equipamentos com segurança na mesma tomada."
+  },
+  {
+    "name": "Impressora multifuncional tanque",
+    "category": "Impressão",
+    "base": 1100,
+    "promo": 12,
+    "query": "multifuncional tanque de tinta wifi",
+    "specs": "Imprime, copia e digitaliza, tanque de tinta, Wi-Fi",
+    "purpose": "Impressão, cópia e scanner em um aparelho.",
+    "utility": "Menor custo por página e resolve a maior parte da papelada do escritório."
+  }
+]

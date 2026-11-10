@@ -1,0 +1,10 @@
+.card { display: flex; flex-direction: column; gap: 8px; padding: 16px; background: var(--color-surface); border: 1px solid var(--color-border); border-radius: 12px; }
+.card p { margin: 0; font-size: 0.9rem; color: var(--color-text-muted); }
+.card strong { color: var(--color-text); }
+.category { font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.05em; color: var(--color-text-muted); }
+.title { margin: 0; font-family: var(--display); font-size: 1.1rem; }
+.promo { align-self: flex-start; padding: 2px 10px; font-size: 0.75rem; font-weight: 700; color: #2b1a00; background: var(--color-promo); border-radius: 99px; }
+.actions { display: flex; gap: 8px; margin-top: auto; padding-top: 8px; }
+.edit, .delete { display: inline-flex; align-items: center; gap: 6px; padding: 6px 12px; font: inherit; font-size: 0.85rem; color: var(--color-text); text-decoration: none; background: transparent; border: 1px solid var(--color-border); border-radius: 8px; cursor: pointer; }
+.edit:hover { border-color: var(--color-primary); color: var(--color-primary); }
+.delete:hover { border-color: var(--color-danger); color: var(--color-danger); }

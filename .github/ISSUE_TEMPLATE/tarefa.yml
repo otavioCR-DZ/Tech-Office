@@ -1,0 +1,33 @@
+
+name: Tarefa
+description: Registrar uma melhoria, correção ou funcionalidade.
+body:
+  - type: dropdown
+    id: tipo
+    attributes:
+      label: Tipo
+      options:
+        - Funcionalidade
+        - Correção
+        - Refatoração
+        - Documentação
+        - Testes
+    validations:
+      required: true
+
+  - type: textarea
+    id: descricao
+    attributes:
+      label: Descrição
+      placeholder: O que precisa ser feito?
+    validations:
+      required: true
+
+  - type: textarea
+    id: criterios
+    attributes:
+      label: Critérios de conclusão
+      value: |
+        - [ ] Implementado
+        - [ ] Testado
+        - [ ] Documentado, se necessário
